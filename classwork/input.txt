@@ -1,0 +1,3 @@
+When deploying FastAPI applications a common approach is to build a Linux container image. 
+It's normally done using Docker. You can then deploy that container image in one of a few possible ways.
+Using Linux containers has several advantages including security, replicability, simplicity, and others.
